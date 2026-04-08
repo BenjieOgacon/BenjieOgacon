@@ -1,4 +1,4 @@
-## Hi there I'm BenjieOgacon.
+## Hi there!.
 <img width="25%" align="right" alt="Github"
 src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968
 b-9c939d88a37c.gif" />
