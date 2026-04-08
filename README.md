@@ -7,7 +7,7 @@ I am xyz..................
 <img src="https://komarev.com/ghpvc/?username=gpy1234&style=flat-square&color=blue"
 alt=""/>
 ## About Me
-- &nbsp; I'm a Msc. students at AIMS, Rwanda
+- &nbsp; I'm a Msc. student at AIMS, Rwanda
 - &nbsp;
 - &nbsp; Exploring new technologies.
 <!--
